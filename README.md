@@ -1,13 +1,15 @@
 # 📕 Valorant Wiki Master 📕
 
 Este App tem o intuito de disponibilizar informações sobre o jogo de videogame "Valorant". pode encontrar informações sobre as armas, Agentes, e dar uma olhada no mapa também!
+Aplicativo nativo em kotlin.
 
 # Funcionalidades :pushpin:
 
-- Ver informações dos agentes
-- Olhar o mapa de valorant completo
-- ver informações de classes, armas, entre outros
-
+- Filtro de Agentes
+- Pesquisa de Agentes
+- Detalhes dos Agentes
+- Detalhes dos Mapas
+- Detalhes das Armas
 # :man_technologist: Autores
 
 - [@Betto](https://github.com/BettoBrandao)
